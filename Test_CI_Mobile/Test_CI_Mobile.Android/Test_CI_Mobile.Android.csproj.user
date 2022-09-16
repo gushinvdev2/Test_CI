@@ -3,5 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>Samsung SM-M205F</SelectedDevice>
     <ActiveDebugProfile>Samsung SM-M205F</ActiveDebugProfile>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
   </PropertyGroup>
 </Project>
